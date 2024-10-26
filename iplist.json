@@ -1,0 +1,44 @@
+{
+"createdTime": "2024-10-23 04:00 - Mountain Time",
+"ip_list": {
+"user": [
+ {
+ "description": "Prisma - US Southwest",
+ "ip": "10.1.1.2/32",
+ "create_time": "2023-04-03 18:58"
+ },
+ {
+ "description": "Prisma - US Southwest",
+ "ip": "10.1.1.3/32",
+ "create_time": "2023-04-03 18:58"
+ },
+ {
+ "description": "Prisma - US Southwest",
+ "ip": "10.1.1.1/32",
+ "create_time": "2023-04-03 18:58"
+ },
+ {
+ "description": "Prisma - US Southwest",
+ "ip": "10.1.1.4/32",
+ "create_time": "2023-04-03 18:58"
+ }
+],
+"server": [
+{
+ "description": "Prisma - US Southwest",
+ "ip": "3.6.6.6/32",
+ "create_time": "2023-04-03 18:58"
+ },
+ {
+ "description": "Prisma - US Southwest",
+ "ip": "3.6.6.9/32",
+ "create_time": "2023-04-03 18:58"
+ },
+  {
+ "description": "Prisma - US Southwest",
+ "ip": "3.6.6.10/32",
+ "create_time": "2023-04-03 18:58"
+ }
+ ]
+}
+}

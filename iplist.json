@@ -51,12 +51,12 @@
  },
  {
  "description": "Prisma - US Southwest",
- "ip": "3.6.6.9/32",
+ "ip": "3.6.6.7/32",
  "create_time": "2023-04-03 18:58"
  },
  {
  "description": "Prisma - US Southwest",
- "ip": "3.6.6.10/32",
+ "ip": "3.6.6.8/32",
  "create_time": "2023-04-03 18:58"
  }
  ]
